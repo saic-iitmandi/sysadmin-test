@@ -1,9 +1,6 @@
 # SNTC Server System Administator Test
 
 This repository has been made specifically for selection of volunteers who can be administrators to the SNTC server now and in the future.
-The first such test was help in  2018 and now its second iteration is being held in May 2019.
-
-The problem set from both years are available in the respective titled folder.
 
 ## About the problemset
 
@@ -24,7 +21,23 @@ The criteria for judging this assignment is as follows:
 
 ## Deliverables
 
-Every problem may have a different set of deliverables. You will find the deliverables for each problem with the problem statement itself. In general, you need to submit all your deliverables in on a repository on Github / Gitlab. Please note that in case you make your repository public, **you will be responsible if someone plagiarises your solution**.
+Every problem may have a different set of deliverables. You will find the deliverables for each problem with the problem statement itself. In general, you need to submit all your deliverables in on a repository on Github / Gitlab. Please note that in case you make your repository public, you will be responsible if someone plagiarises your solution.
+
+## Deadlines
+
+The **STRICT DEADLINE** for the assignment is ***10th February, 2018 00:00 hrs***. Any commit in the git repository with a later date will not be considered.
+
+Also, you need to share with us the link to your git repository when asked.
+
+## Problems
+
+Please find the problems in the [`Problemset`](https://github.com/KamandPrompt/sysadmin-test/tree/master/2018/Problemset) directory in this repository.
+
+## Weightage of problems
+
+***TOTAL WEIGHTAGE: 535 points***
+
+You can find the individual weightage for each problem in the problem statement itself.
 
 ## Resources
 
