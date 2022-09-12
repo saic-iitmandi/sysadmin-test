@@ -1,6 +1,7 @@
+# <img id="top" align="center"  src="SAIC.png" width=500>
 # SNTC Server System Administator Test
 
-This repository has been made specifically for selection of volunteers who can be administrators to the SNTC server now and in the future.
+This repository has been made specifically for selection of volunteers who can be administrators to the SNTC server now and in the future.<br>
 The first such test was held in 2018 and is being carried on each year since.
 
 The problem set from both years are available in the respective titled folder.

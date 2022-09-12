@@ -22,7 +22,7 @@ Load balancing must be such that when you locally request a particular domain mu
 Test this load balancing by sending multiple requests using curl or some other tool.<br>
 You can either demonstrate it using docker-compose output or <br>
 docker logs("sudo docker logs <image name/id> -f") or <br>
-through access logs("cat <log file location> -f") in the below task<br>
+through access logs("cat <log file path/location> -f") in the below task<br>
 
 3. **Design a custom log file architecture for all running docker instances which you feel is best suited for a single server**<br>
 Demonstrate it locally using at least two docker instances.<br>
