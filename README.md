@@ -1,7 +1,7 @@
 # SNTC Server System Administator Test
 
 This repository has been made specifically for selection of volunteers who can be administrators to the SNTC server now and in the future.
-The first such test was help in  2018 and now its second iteration is being held in May 2019.
+The first such test was held in 2018 and is being carried on each year since.
 
 The problem set from both years are available in the respective titled folder.
 
