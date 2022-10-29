@@ -1,7 +1,27 @@
 >### Kindly read the guidelines in **README.md** before proceeding with the challenges.
+-----------------------------------------------------
 ## Challenge 1
 
------------------------------------------------------
+[**Docker**](https://www.docker.com/resources/what-container/) is one of the most widely used services to _containerize_ applications that must run on the same host system but in independent environments. We also use Docker containers on the SNTC server to deploy each of the clubs' websites. However in case the main program running inside a container exits, the container will also abruptly shut down with it.
+
+Your challenge is to monitor all the Docker containers running on a host system, and identify if a container exits or changes state from normal/running/active. Additionally, your program should then automatically alert us by sending an email to saic@students.iitmandi.ac.in with helpful info such as _Which container? / what program was running inside it? When?_ Optionally even _How did it stop - any error code or traceback?_ etc...
+(**If you are going to test the script a few times, please don't spam this email ID (or anyone else). You can use another personal ID for the test recipient.**)
+
+<details>
+  <summary>Notes on Docker [expand]</summary>
+  If you have never heard anything about how docker works before, here are 3 questions that may help guide you - <ul>
+  <li>What is an <i>Image</i> vs. <i>Container</i> ?</li>
+  <li>Virtual Environment (e.g. Python's venv or anaconda) <i>vs.</i> Container (Docker etc..) <i>vs.</i> a Virtual Machine (Oracle VBox, etc...)</li>
+  <li>What is a <code>Dockerfile</code> ?</li>
+  </ul>
+  <p>We aren't asking you to deploy any specific service/container in this problem. You can create your own Docker images of any kind, or even just pull some from the Docker Hub and run those. Maybe you insert a script that automatically exits after some time, or you can stop the container manually during testing to check if your monitoring script works.</p>
+</details>
+
+<details>
+  <summary>Notes on Emailing [expand]</summary>
+  You will likely need credentials of a <i>trusted</i> SMTP server/relay to send email that will actually be accepted and downloaded to any inbox. You may use any service that is publicly available. There are free accounts on some mailing services that are feasible to create, or even Gmail allows you to use its SMTP relay, with some conditions. <b>Please do not allow your credentials to be leaked or appear in the code at any time, as you will need to make your Git repository public later! They can then be misused by anyone on the internet.</b> You can record a short video of the email script working and being received in your inbox so that we can see the script in action, or, instead document how to provide the credentials so that we can use our own and test it.
+</details>
+
 ## Challenge 2
 
 -----------------------------------------------------
@@ -29,8 +49,8 @@ You can take the number of instances to be **3**.Bonus points for generalizing :
 Load balancing must be such that when you locally request a particular domain/URL multiple times, the requests get distributed uniformly across the docker instances.<br>
 Test this load balancing by sending multiple requests using curl or some other tool.<br>
 You can either demonstrate it using docker-compose output or <br>
-docker logs("sudo docker logs <image name/id> -f") or <br>
-through access logs("cat <log file path/location> -f") (see below task)<br>
+docker logs(`sudo docker logs <image name/id> -f`) or <br>
+through access logs(`cat <log file path/location> -f`) (see below task)<br>
 
 3. **Design a custom log file architecture/format for all running docker instances which you feel is best suited for a single server**<br>
 Demonstrate it locally using at least two docker instances.<br>
