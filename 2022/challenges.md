@@ -24,7 +24,7 @@ Your challenge is to monitor all the Docker containers running on a host system,
 
 -----------------------------------------------------
 ## Challenge 2
-You are given the github repositories of three websites, all of them made using different technologies. You need to set up docker containers for the three websites and set up reverse proxy on your system for the same. The three sites should be running on your localhost. You can use any port of your choice for the three websites. Note that running 2 of these websites directly on your system would result in them running in localhost, but that is not expected in this task. You have to set up docker containers for the evaluation.
+You are given the github repositories of three websites, all of them made using different technologies. You need to set up docker containers for the three websites. The three sites should be running on your localhost. You can use any port of your choice for the three websites. Note that running 2 of these websites directly on your system would result in them running in localhost, but that is not expected in this task. You have to set up docker containers for the evaluation.
 
 The websites are provided here: [CP Dashboard](https://github.com/KamandPrompt/CP-Dashboard), [STAC IIT Mandi](https://github.com/STAC-IITMandi/STAC-IITMandi.github.io), [SAIC IIT Mandi](https://github.com/KamandPrompt/SAIC-Website)
 
