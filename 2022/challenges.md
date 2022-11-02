@@ -22,11 +22,18 @@ Your challenge is to monitor all the Docker containers running on a host system,
   You will likely need credentials of a <i>trusted</i> SMTP server/relay to send email that will actually be accepted and downloaded to any inbox. You may use any service that is publicly available. There are free accounts on some mailing services that are feasible to create, or even Gmail allows you to use its SMTP relay, with some conditions. <b>Please do not allow your credentials to be leaked or appear in the code at any time, as you will need to make your Git repository public later! They can then be misused by anyone on the internet.</b> You can record a short video of the email script working and being received in your inbox so that we can see the script in action, or, instead document how to provide the credentials so that we can use our own and test it.
 </details>
 
+
+#### Deliverables
+- Dockerfiles and relevant associated scripts or description for building the images.
+- Email automation script(s)
+- Main script(s) to detect changes
+- Description of the scheduling/monotoring method you used
+
 -----------------------------------------------------
 ## Challenge 2
 You are given the github repositories of three websites, all of them made using different technologies. You need to set up docker containers for the three websites. The three sites should be running on your localhost through Docker instances. You can use any port of your choice for the three websites. Note that running these websites directly on your system is not expected in this task. You have to set up docker containers for the evaluation.
 
-The websites are provided here: [CP Dashboard](https://github.com/KamandPrompt/CP-Dashboard), [X-Ray Burst Detection-STAC IIT Mandi](https://github.com/STAC-IITMandi/xray-burst-detection), [SAIC IIT Mandi](https://github.com/KamandPrompt/SAIC-Website)
+The websites are provided here: [CP Dashboard](https://github.com/KamandPrompt/CP-Dashboard), [An app of STAC IIT Mandi](https://github.com/STAC-IITMandi/xray-burst-detection), [SAIC IIT Mandi](https://github.com/KamandPrompt/SAIC-Website)
 
 The technologies used in the different websites are ReactJS, Flask and Simple HTML-CSS-JS respectively. The way you set up the docker containers is up to you.
 
@@ -62,6 +69,11 @@ through access logs(`cat <log file path/location> -f`) (see below task)<br>
 Demonstrate it locally using at least two docker instances.<br>
 Why is your design preferable to the default one? Justify your answer with respect to both access and error logs.<br>
 ### [ To demonstrate and test your script(s) you can use [this image(lightweight)](https://hub.docker.com/r/metavinayak/matrix) or [this one(customizable)](https://hub.docker.com/r/metavinayak/matrix-custom)]
+
+#### Deliverables
+- Dockerfiles or Docker Compose files
+- Video/Screenshots of Load Balancing demonstration
+- Video/Screenshot of custom logs demonstration and/or any other scripts used
 
 -----------------------------------------------------
 ## Challenge 5 - Shell Scripting
