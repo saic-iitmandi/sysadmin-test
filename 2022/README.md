@@ -1,7 +1,7 @@
 # <img id="top" align="center"  src="./../SAIC.png" width=500><br><br> SAIC CORE TEAM INDUCTION 2022
 # Instructions
 
-The first such test was held in 2018 and now its fifth iteration is being held in September 2022.
+The first such test was held in 2018 and now its fifth iteration is being held in 2022.
 
 The problem set from previous years are available in this [link's](https://github.com/saic-iitmandi/sysadmin-test) folder.
 
