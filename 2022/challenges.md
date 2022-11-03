@@ -60,7 +60,6 @@ The technologies used in the different websites are ReactJS, Flask and Simple HT
 -----------------------------------------------------
 ## Challenge 5 - Docker & Networking
 
-Hi there!<br>
 In this challenge you have to perform/write scripts for the tasks below:<br>
 1. Have you heard about **Docker Hub**?<br>
 In this challenge, you have to first **automate docker image deployments** using the image id(s) on [**Docker Hub**](https://hub.docker.com/search?q=).<br>
