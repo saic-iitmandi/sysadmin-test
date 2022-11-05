@@ -8,7 +8,7 @@ Report your findings and method. You will find the flag once you have gained roo
 
 Use of tools like metasploit is discouraged.
 
-Link: https://drive.google.com/file/d/1DCeI7AQmL9irRW6Ad_j3E2WD8FYVte0o/view?usp=sharing
+Link: https://drive.google.com/file/d/14x8k0s72lcZ6BnlPQPahafZ08jeAhY-f/view?usp=share_link
 
 -----------------------------------------------------
 ## Challenge 2 - Shell Scripting
