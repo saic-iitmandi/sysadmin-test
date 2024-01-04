@@ -1,7 +1,7 @@
 # <img id="top" align="center"  src="https://github.com/saic-iitmandi/sysadmin-test/blob/main/SAIC.png" width=500><br><br> SAIC CORE TEAM INDUCTION 2022
 # Instructions
 
-The first such test was held in 2018 and now its fifth iteration is being held in 2022.
+The first such test was held in 2018 and now its sixth iteration is being held in 2023.
 
 The problem set from previous years are available in this [link's](https://github.com/saic-iitmandi/sysadmin-test) folder.
 
@@ -30,4 +30,4 @@ Every problem may have a different set of deliverables. You will find the delive
 
 ## Issues with the Problems
 
-If you have any issues with a problem, you can ping the test organizors on WhatsApp groups. 
+If you have any issues with a problem, you can ping the test organizers on WhatsApp groups. 
