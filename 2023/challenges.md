@@ -15,7 +15,7 @@ Use of tools like metasploit is discouraged.
 
   
 
-Drive link for the Virtual Machine: [Here](https://drive.google.com/file/d/1DncHl1FfJnJfToHQWwuAMuEJkWQGN98f/view?usp=sharing)
+Drive link for the Virtual Machine: [Here]([https://drive.google.com/file/d/1DncHl1FfJnJfToHQWwuAMuEJkWQGN98f/view?usp=sharing])
 
   
 
