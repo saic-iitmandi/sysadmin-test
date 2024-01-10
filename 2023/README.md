@@ -1,4 +1,4 @@
-# <img id="top" align="center"  src="https://github.com/saic-iitmandi/sysadmin-test/blob/main/SAIC.png" width=500><br><br> SAIC CORE TEAM INDUCTION 2022
+# <img id="top" align="center"  src="https://github.com/saic-iitmandi/sysadmin-test/blob/main/SAIC.png" width=500><br><br> SAIC CORE TEAM INDUCTION 2023
 # Instructions
 
 The first such test was held in 2018 and now its sixth iteration is being held in 2023.
