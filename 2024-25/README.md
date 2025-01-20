@@ -1,4 +1,4 @@
-# <img id="top" align="center"  src="https://github.com/saic-iitmandi/sysadmin-test/blob/main/SAIC.png" width=500><br><br> SAIC CORE TEAM INDUCTION 2025
+# <img id="top" align="center"  src="https://github.com/saic-iitmandi/sysadmin-test/blob/main/SAIC.png" width=500><br><br> SysAdmin Test 2024-25
 
 # Instructions
 
