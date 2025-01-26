@@ -1,4 +1,4 @@
-# SysAmin Test 2024-25 Challenges
+# SysAdmin Test 2024-25 Challenges
 
 ## **Challenge 1 - Gain Access to a Remote**
 
