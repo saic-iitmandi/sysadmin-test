@@ -1,0 +1,10 @@
+Drive: E:\
+Folders:
+E:\System Volume Information
+E:\lol
+Files:
+E:\lol\excel2.xlsx
+E:\System Volume Information\IndexerVolumeGuid
+E:\System Volume Information\WPSettings.dat
+E:\lol\bitmap.bmp
+E:\lol\word2.docx
