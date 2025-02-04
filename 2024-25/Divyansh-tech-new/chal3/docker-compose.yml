@@ -1,0 +1,34 @@
+version: '3.8'
+services:
+  nutrient-tracker:
+    build:
+      context: ./Nutrient-Tracker
+    ports:
+      - "4000:3000" # Map port 4000 on localhost to port 3000 in the container
+    networks:
+      - app-network
+    depends_on:
+      - db
+    environment:
+      - DATABASE_URL=postgresql://postgres:password@db:5432/nutrient_tracker
+
+  db:
+    image: postgres:15
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: password
+      POSTGRES_DB: nutrient_tracker
+    networks:
+      - app-network
+
+  tip:
+    build:
+      context: ./TIP
+    ports:
+      - "5000:3000" # Map port 5000 on localhost to port 3000 in the container
+    networks:
+      - app-network
+
+networks:
+  app-network:
+    driver: bridge

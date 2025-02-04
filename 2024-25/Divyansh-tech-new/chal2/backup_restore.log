@@ -1,0 +1,16 @@
+2025-01-26 11:47:48 - Starting backup process...
+2025-01-26 11:47:48 - Backing up volume: test_volume
+2025-01-26 11:47:49 - Backup created: /mnt/d/work/sysss/Challenge2/backup_dir/test_volume_20250126_114748.tar.gz
+2025-01-26 11:47:49 - Backup process completed.
+2025-01-26 11:50:33 - Starting backup process...
+2025-01-26 11:50:33 - Backing up volume: test_volume
+2025-01-26 11:50:34 - Backup created: /mnt/d/work/sysss/Challenge2/backup_dir/test_volume_20250126_115033.tar.gz
+2025-01-26 11:50:34 - Backup process completed.
+2025-01-26 11:52:40 - Restoring volume: test_volume from /mnt/d/work/sysss/Challenge2/backup_dir/test_volume_20250126_115033.tar
+2025-01-26 11:52:40 - Restore completed for volume: test_volume
+2025-01-26 11:53:35 - Restoring volume: test_volume from /mnt/d/work/sysss/Challenge2/backup_dir/test_volume_20250126_115033.tar.gz
+2025-01-26 11:53:36 - Restore completed for volume: test_volume
+2025-01-26 11:55:39 - Starting backup process...
+2025-01-26 11:55:39 - Backing up volume: test_volume
+2025-01-26 11:55:40 - Backup created: /mnt/d/work/sysss/Challenge2/backup_dir/test_volume_20250126_115539.tar.gz
+2025-01-26 11:55:40 - Backup process completed.
